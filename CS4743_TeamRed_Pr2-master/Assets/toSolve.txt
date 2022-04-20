@@ -1,0 +1,9 @@
+get car to detect light
+get car to detect another car ahead of it.
+	Use child object infront of each car detecting colission
+		Not just ahead, but along the future path of the car
+get car to know intersection options (straight, right, left, etc.)
+get car to follow path
+	Waypoints
+		How to place waypoints?
+			Programtically?
